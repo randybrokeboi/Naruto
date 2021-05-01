@@ -1,7 +1,3 @@
-
-
-
-# Naruto
 <h1 align="center">
   Naruto in Python
 </h1>
