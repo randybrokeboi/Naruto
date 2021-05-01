@@ -3,7 +3,7 @@
 </h1>
 
 
-Ce projet Personnel que j'ai entrepris en dehors des cours est un programme en Python, il consiste à créer un jeu de type arcade sur l'univers du Manga Naruto
+Ce projet Personnel est un programme en Python, il consiste à créer un jeu de type arcade sur l'univers du Manga Naruto
 Mon objectif était de créer un monde en 2D où seule deux personnages contrôlés par deux joueurs se déplacent grâce aux touches du clavier, 
 l'animation des personnages est créée grâce à des "sprites", c'est a dire que chaque animation d'un personnage est un ensemble d'images défilant dans le temps
 
